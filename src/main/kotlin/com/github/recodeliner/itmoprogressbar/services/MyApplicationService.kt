@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.recodeliner.itmoprogressbar.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.recodeliner.itmoprogressbar.MyBundle
 
 class MyApplicationService {
 
