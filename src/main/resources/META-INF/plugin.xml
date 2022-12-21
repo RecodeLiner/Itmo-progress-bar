@@ -2,7 +2,7 @@
   <id>itmo.logo</id>
   <name>Itmo Progress Bar</name>
   <version>0.0.1</version>
-  <vendor>Temp</vendor>
+  <vendor>Vera</vendor>
 
   <description><![CDATA[
       <p>Displays Itmo logo in jetbrains progress bar.</p>
